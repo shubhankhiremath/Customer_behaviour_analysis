@@ -2,6 +2,10 @@
 
 An end-to-end customer behaviour analysis project using Python, MySQL, SQL, and Power BI. The project prepares raw customer shopping data, extracts business insights, and presents findings through an interactive dashboard.
 
+
+<img width="1351" height="737" alt="image" src="https://github.com/user-attachments/assets/cce36e62-5e96-427a-a19d-5d291e03c524" />
+
+
 ## Project Overview
 
 This project analyzes customer purchasing behaviour to identify patterns related to:
